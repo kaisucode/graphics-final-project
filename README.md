@@ -1,4 +1,4 @@
-# Final Project
+# Graphics Final Project
 
 ### Introduction to Computer Graphics, Fall 2021
 
@@ -13,7 +13,7 @@
 - (disclaimer: no collision detection would be applied to the character)
 
 ## Technical features
-- Stylized rendering in multiple ways
+- Stylized rendering
 - HDR, perhaps with bloom
 - (Fractal?) terrain
 - Basic camera movement
